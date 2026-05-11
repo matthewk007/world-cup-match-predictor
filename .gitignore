@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+.streamlit/
+.pi/
+thoughts/
+matches_1930_2022.csv
+world_cup.csv
